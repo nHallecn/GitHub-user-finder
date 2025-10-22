@@ -29,7 +29,7 @@ You only need a modern web browser (like Chrome, Firefox, or Edge).
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/github-user-finder.git](https://github.com/YOUR-USERNAME/github-user-finder.git)
+    git clone [https://github.com/nhallecn/github-user-finder.git](https://github.com/nhallecn/github-user-finder.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -42,7 +42,7 @@ You only need a modern web browser (like Chrome, Firefox, or Edge).
     open index.html 
     # Or, double-click the file
     ```
-
+[🚀 View Live](https://nhallecn.github.io/GitHub-user-finder/)
 ---
 
 ## 🔗 Data Source
