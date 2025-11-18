@@ -15,7 +15,6 @@ This project is built using **vanilla HTML, CSS, and JavaScript**, making direct
 * **Contact Info:** Links to the user's company, blog/website, and Twitter profile (if available).
 * **Responsive Dark Theme:** Optimized for all screen sizes with a clean, modern dark aesthetic.
 
----
 
 ## 🚀 Getting Started
 
@@ -51,5 +50,5 @@ All profile and repository information is dynamically fetched from:
 
 **[GitHub REST API](https://docs.github.com/en/rest)**
 
-The application adheres to GitHub's rate limits and uses only public data.
+The application adheres to GitHub's rate limits and uses only public data. thanks
 
